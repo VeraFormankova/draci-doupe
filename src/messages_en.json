@@ -1,0 +1,16 @@
+{
+    "introduction_title": "Introduction",
+    "introduction_draciDoupe_name": "Dračí doupě",
+    "introduction_draciDoupe_description": "Each player plays typically one character (warrior, ranger, wizard etc.), except for one player - the gamemaster (called Pán jeskyně in Czech, which can be translated literally as Lord of the cavern or more freely as dungeon master). They prepare a map and then describe to the players what their characters see and hear. The players say what the characters do and the gamemaster says what was the result of their actions.",
+
+    "races_title": "Races",
+    "races_introduction": "Each player chooses one of seven playable races. Some races or creatures in DRD are different from DnD for several reasons: the translating process, folk tales already present and another base of literature available in past.",
+    "races_hobbit_name": "Hobbit",
+    "races_hobbit_description": "a being that is smaller than a human appearing in J. R. R. Tolkien's The Lord of the Rings. She has hairy legs, goes without shoes and usually has curly hair and a round belly. Their special racial ability is olfaction – the ability to sense the proximity of other creatures. They excel in high agility and charisma, which makes them excellent thieves in the game. The ancestral weapon is a light crossbow (attack bonus).",
+
+    "professions_tite": "Professions",
+    "professions_introduction":"Each profession is divided into two more specializations after reaching 6th level.",
+    "professions_name": "Medicine man",
+    "professions_valecnik_description": "focuses on face-to-face combat (unlimited weapons and armor) can estimate the strength of opponents, heal their wounds or try to intimidate and drive away monsters. Profession Traits: Strength and Endurance."
+    
+}

@@ -1,0 +1,15 @@
+{
+    "introduction_title": "Úvod",
+    "introduction_draciDoupe_name": "Dračí doupě",
+    "introduction_draciDoupe_description": "Dračí doupě (zkratka DD či DrD) je česká fantasy hra na hrdiny, kterou v roce 1990 vytvořilo nakladatelství Altar. Hra vychází z americké hry na hrdiny Dungeons & Dragons (D&D). Průběh hry řídí jeden hráč nazývaný Pán jeskyně, ostatní hráči hrají za jednotlivé postavy, která má každá svou rasu (člověk, elf, trpaslík ap.) a povolání (válečník, zloděj, čaroděj ap.).",
+
+    "races_title": "Rasy",
+    "races_introduction": "Při vytváření postavy si jako první hráč vybere jednu z těchto ras:",
+    "races_hobbit_name": "Hobit",
+    "races_hobbit_description": "bytost, která je menší než člověk, objevující se v díle J. R. R. Tolkiena Pán prstenů. Má chlupaté nohy, chodí bez bot a zpravidla má kudrnaté vlasy a kulaté bříško. Jejich zvláštní rasovou schopností je čich – schopnost vycítit blízkost jiných tvorů. Vynikají vysokou obratností a charisma, což z nich ve hře dělá vynikající zloděje. Rodovou zbraní je lehká kuše (bonus na útok).",
+
+    "professions_tite": "Profese",
+    "professions_introduction":"Každé povolání se po dosažení 6. úrovně dělí na další dvě specializace.",
+    "professions_name": "Válečník",
+    "professions_valecnik_description": "se soustředí na boj tváří v tvář (zbraně a zbroje bez omezení) dokáže odhadovat sílu protivníků, léčit svá zranění nebo se pokusit zastrašit a zahnat nestvůry. Vlastnosti povolání: síla a odolnost."
+}
